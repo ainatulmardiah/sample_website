@@ -1,0 +1,75 @@
+
+		header
+		{
+			background-color: darkblue;
+			padding: 12px;
+			text-align: center;
+			font-size: 35px;
+			color: white;
+		}
+
+		ul 
+		{
+			list-style-type: none;
+			padding: 0;
+		}
+
+		ul li
+		{
+			display: inline;
+		}
+
+		a:link
+		{
+			color: floralwhite;
+			background-color: transparent;	
+			text-decoration: none;
+		}
+		a:visited
+		{
+			color: hotpink;
+			background-color: transparent;
+			text-decoration: none;
+		}
+
+		a:hover
+		{
+			color: yellow;
+			background-color: forestgreen;
+			text-decoration: underline;
+		}
+
+		h1
+		{
+			text-align: center;
+			text-shadow: 2px 2px 5px red;
+			font-family: Georgia;
+			font-size: 50px;
+		}
+
+		h2
+		{
+			text-align: center;
+			text-shadow: 2px 2px 5px lightpink;
+			font-family: Georgia;
+			font-size: 50px;
+			color: purple;
+		}
+
+		h3
+		{
+			text-align: center;
+			text-shadow: 2px 2px 5px yellow;
+			font-family: Georgia;
+			font-size: 50px;
+			color: blueviolet;
+		}
+
+
+		footer
+		{
+			text-align: center;
+			background-color: grey;
+			font-size: 20px;
+			color: white;
+		}
